@@ -7,6 +7,7 @@ I presented my findings by creating a dashboard using Tableau.
 ### Dashboard
 [Click here](https://public.tableau.com/app/profile/masud.ibrahim/viz/AirBnBproject_16781981155910/Dashboard1) to view the interactive dashboard on tableau public
 
+![Dashboard 1](https://user-images.githubusercontent.com/86682483/223482054-088f7878-f75d-44e3-a809-e731074a0397.png)
 
 ### Conclusions
 From our visualisations, we can conclude that average price of the property increases as the number of bedrooms also increase.<BR>
