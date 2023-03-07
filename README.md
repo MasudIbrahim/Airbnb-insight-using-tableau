@@ -1,4 +1,4 @@
-# An insight into Airbnbs in Seattle in 2016 🏡
+# A look at Airbnbs in Seattle in 2016 🏡
 
 ### Background info
 I used a [dataset](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset) from kaggle on Airbnb data to create a visualisation for prospective investors to help them in their search for the most profitable properties, times of year and more.<BR>
