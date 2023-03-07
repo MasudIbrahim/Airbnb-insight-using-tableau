@@ -9,7 +9,7 @@ I presented my findings by creating a dashboard using Tableau.
 
 ![Dashboard 1](https://user-images.githubusercontent.com/86682483/223482054-088f7878-f75d-44e3-a809-e731074a0397.png)
 
-### Conclusions
+### Findings
 From our visualisations, we can conclude that average price of the property increases as the number of bedrooms also increase.<BR>
 The most profitable month of the year was December, followed by August.<BR>
 Finally, the zipcode with the highest avg price was 98134.
